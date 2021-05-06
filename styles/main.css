@@ -1,0 +1,35 @@
+.button{
+    background: orange;
+    border: solid 2px peru;
+    border-radius: 2px;
+    font-size: 15px;
+    color: white;
+    position: relative;
+    justify-content: center;
+}
+
+.title{
+    font-size: 32px;
+    color: white;
+    border: solid 4px aqua;
+    border-radius: 60px;
+    padding: 20px;
+}
+
+.container{
+    border: 4px solid purple;
+    padding: 40px;
+    display: inline-block;
+    width: 750px;
+}
+
+.block{
+    background: url(../image/descarga.jpg) no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border: 4px solid rgb(123, 54, 235);
+  padding-top: 100px;
+  text-align: center;
+  margin-top: 8%;
+}
